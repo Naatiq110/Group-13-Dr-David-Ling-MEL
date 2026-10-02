@@ -1,10 +1,10 @@
 # COIT20246 Cyber Security and Networking Project
 
-- Group Number: 13
-- Student 1: Juan Pablo(12326791)
-- Student 2: Mir Naatiq Hussain(12333255)
-- Campus: Melbourne
-- Tutor: DR. David Ling 
+- Group Number: 
+- Student 1: 
+- Student 2: 
+- Campus:
+- Tutor:
 
 ## Project Report
 
