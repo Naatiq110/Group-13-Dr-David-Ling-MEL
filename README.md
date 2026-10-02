@@ -19,7 +19,7 @@
 Key items in the project (see the Project Specification defines *all* items).
 
 Group and Planning
-- [ ] Form your group
+- [x] Form your group
 - [x] Create GitHub Repository via GitHub Classroom
 - [ ] Agree on communication plan: frequency, methods
 - [ ] Prepare schedule in plan.md
