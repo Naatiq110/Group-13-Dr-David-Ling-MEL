@@ -1,6 +1,6 @@
 # COIT20246 Cyber Security and Networking Project
 
-- Group Number:
+- Group Number: 13
 - Student 1: Juan Pablo(12326791)
 - Student 2: Mir Naatiq Hussain(12333255)
 - Campus: Melbourne
